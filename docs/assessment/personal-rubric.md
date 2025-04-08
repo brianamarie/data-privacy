@@ -22,6 +22,9 @@ This comprehensive assessment tool helps you evaluate your personal privacy prac
 | **Mobile app permissions** | Never review permissions | Occasionally review permissions | Regularly audit app permissions | Minimal permissions granted with regular reviews | Strict permission control with app sandboxing/isolation when possible |  |  |
 | **Border crossing preparation** | No special measures for borders | Delete some sensitive apps before crossing | Travel with minimal data devices | Dedicated travel devices with minimal accounts/data | Clean travel devices + encrypted backups stored securely elsewhere |  |  |
 
+**Simple win:** Next time you download an app, deny all permissions initially, then only enable what proves necessary when you actually use it.
+
+
 ---
 
 ## Communication Security
@@ -33,6 +36,8 @@ This comprehensive assessment tool helps you evaluate your personal privacy prac
 | **Voice communications** | Standard cell calls | Default encrypted calls (FaceTime, WhatsApp) | Signal voice calls | Signal calls with additional network security (VPN) | Signal or similar over Tor network on dedicated device |  |  |
 | **Metadata protection** | No consideration of metadata | Basic awareness of metadata risks | Some use of metadata-minimizing tools | Regular use of tools that minimize metadata | Comprehensive metadata protection strategy (Tor, compartmentalization) |  |  |
 | **Physical conversation security** | No awareness of surroundings | Basic awareness of sensitive conversations | Device-free sensitive conversations | Device-free zones + awareness of surveillance | Counter-surveillance measures for sensitive conversations |  |  |
+
+**Simple win:** Switch your most important conversations to an encrypted messaging platform like Signal.
 
 ---
 
@@ -47,6 +52,14 @@ This comprehensive assessment tool helps you evaluate your personal privacy prac
 | **Network security** | Default network connections | Password-protected home WiFi | Avoid public WiFi or use VPN | VPN on all connections with kill-switch | Traffic compartmentalization with combination of VPN + Tor as needed |  |  |
 | **DNS settings** | Default ISP DNS | Privacy-respecting DNS (1.1.1.1, 9.9.9.9) | Encrypted DNS (DoH, DoT) | Self-hosted or high-security DNS resolver | DNS over Tor or similar advanced configuration |  |  |
 
+
+**Simple win:** Pick one free service you use daily and research how it makes money from your data. Decide if that exchange still feels worth it to you.
+
+**Simple win:** Start using a different browser for your most sensitive online activities, like banking or health research.
+
+
+
+
 ---
 
 ## Account Security
@@ -59,6 +72,8 @@ This comprehensive assessment tool helps you evaluate your personal privacy prac
 | **Social media presence** | Public profiles with personal data | Limited personal information shared | Minimal digital footprint | Pseudonymous accounts | Compartmentalized online identities with minimal linkability |  |  |
 | **Data minimization** | No consideration of data collection | Occasional review of account data | Regular data export and deletion | Minimal information provided to services | Strict information diet with regular auditing of provided data |  |  |
 
+**Simple win:** Identify and delete three online accounts you no longer use.
+
 ---
 
 ## Personal Data Management
@@ -70,6 +85,8 @@ This comprehensive assessment tool helps you evaluate your personal privacy prac
 | **Document security** | No encryption of documents | Password protection for sensitive documents | Encrypted storage of sensitive documents | End-to-end encrypted cloud storage or local encryption | Compartmentalized document storage with strong encryption |  |  |
 | **Physical document handling** | No special handling | Shredding of sensitive documents | Cross-cut shredding of all personal documents | Secure document destruction | Minimal physical documents with secure destruction protocols |  |  |
 | **Location data management** | No management of location data | Occasional location history clearing | Regular location data deletion | Minimal location services enabled | Location services disabled by default with temporary precise exceptions |  |  |
+
+**Simple win:** Schedule a "privacy day" every three months to review and update your privacy settings across major platforms.
 
 ---
 
@@ -95,17 +112,8 @@ This comprehensive assessment tool helps you evaluate your personal privacy prac
 | **Metadata awareness** | No awareness of metadata | Basic understanding of file metadata | Regular stripping of metadata from shared files | Comprehensive metadata removal from all published content | Advanced metadata analysis tools to verify sanitization |  |  |
 | **Public records management** | No awareness of public records | Basic knowledge of available public records | Steps taken to limit new public records | Active management of existing public records | Legal mechanisms to protect/remove accessible public records |  |  |
 
----
+**Simple win:** Download your social media data archive to understand what information platforms have collected about you.
 
-## Threat Modeling & Contextual Security
-
-| Practice | Beginner (1) | Basic (2) | Intermediate (3) | Advanced (4) | Expert (5) | Your Score | Notes |
-|----------|------------|----------|---------------|-----------|---------|-----------|-------|
-| **Personal threat assessment** | No threat assessment | Basic awareness of general threats | Written assessment of personal threat landscape | Detailed threat modeling with probability and impact analysis | Comprehensive threat model with regular updates and adaptation |  |  |
-| **Contextual security practices** | Same security practices in all contexts | Different practices for work and personal | Context-specific security practices | Detailed security protocols for different contexts | Automated contextual security with environment detection |  |  |
-| **Security research habits** | No security research | Occasional reading of security news | Regular privacy and security updates | Active participation in security communities | Systematic tracking of relevant threats and countermeasures |  |  |
-| **Security incident response** | No incident response plan | Basic awareness of steps after compromise | Written incident response procedures | Tested incident response plan with containment strategies | Comprehensive IR plan with regular drills and updates |  |  |
-| **Physical security integration** | No consideration of physical security | Basic physical security awareness | Physical security measures for devices and data | Comprehensive physical and digital security integration | Advanced countermeasures against physical and side-channel attacks |  |  |
 
 ---
 

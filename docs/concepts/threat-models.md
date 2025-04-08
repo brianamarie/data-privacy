@@ -174,4 +174,30 @@ A good threat model leads to concrete actions:
 
 - **Over-focusing on exotic threats** while missing common risks
 - **Analysis paralysis** from overly complex models
-- **Security-onl
+- **Security-only thinking** that misses privacy implications
+- **Static modeling** that doesn't adapt to changing circumstances
+- **Overlooking aggregate risk** from seemingly minor data points
+
+## Quick-Start Threat Model Template
+
+```
+DATA ASSET: [Describe the data]
+STORAGE LOCATIONS: [Where is it stored?]
+ACCESS CONTROLS: [Who can access it?]
+THREATS:
+  1. [Threat Actor] might [Attack Vector] to [Harmful Outcome]
+     Risk: [High/Medium/Low] | Mitigation: [Protection measure]
+  2. [Repeat for each significant threat]
+NEEDED IMPROVEMENTS:
+  - [Specific action item]
+  - [Specific action item]
+  - [Specific action item]
+```
+
+## Next Steps
+
+- Use our [Personal Privacy Rubric](../assessment/personal-rubric.md) to evaluate your current practices
+- Explore recommended [privacy tools](../tools/README.md) based on your threat model
+- Learn how to teach threat modeling in our [workshop materials](../teaching/workshop-materials.md)
+
+Remember that threat modeling is not a one-time exercise but an ongoing process. As your data, systems, and the threat landscape evolve, so should your threat model.
