@@ -10,6 +10,11 @@
   * [Communication Tools](tools/communication.md)
   * [Browsing Privacy](tools/browsing.md)
   * [Data Management](tools/data-management.md)
+  * [Mobile](tools/mobile/README.md)
+    * [Phone OS Privacy](tools/mobile/mobile-os-privacy.md)
+    * [Android Privacy Hardening](tools/mobile/android-hardening.md)
+    * [iOS Privacy Hardening](tools/mobile/ios-hardening.md)
+    * [GrapheneOS Getting Started](tools/mobile/grapheneos.md)
 * **Assessment Resources**
   * [Personal Privacy Rubric](assessment/personal-rubric.md)
   * [Privacy Needs Calculator](assessment/needs-calculator.md)
