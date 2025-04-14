@@ -113,6 +113,6 @@ Consider these factors when choosing a mobile OS for privacy:
 Each subsequent guide will provide specific configuration advice for:
 - [iOS Privacy Hardening](ios-privacy.md) - Maximizing privacy within Apple's ecosystem
 - [Android Privacy Hardening](android-privacy.md) - Minimizing tracking on stock Android
-- [GrapheneOS Getting Started](grapheneos-start.md) - First steps with this privacy-focused alternative
+- [GrapheneOS Getting Started](grapheneos.md) - First steps with this privacy-focused alternative
 
 Remember that no mobile OS offers perfect privacy out of the box. Each requires thoughtful configuration based on your specific needs and threat model.
